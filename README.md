@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/). It's a collection of code, ideas, and explanations aimed at improving problem-solving skills and preparing for technical interviews.
 
----
+--
 
 ## 📁 Structure
 
@@ -21,7 +21,7 @@ Each file contains:
 - Solution code
 - Optional comments or explanations
 
----
+--
 
 ## ✅ Topics Covered
 
@@ -36,7 +36,7 @@ Each file contains:
 - Backtracking  
 - And more...
 
----
+--
 
 ## 🚀 How to Use
 
@@ -53,7 +53,7 @@ cd leetcode-solutions
 - Explanations or comments are included wherever helpful.
 - Some files may include multiple approaches or optimizations.
 
----
+--
 
 ## 🎯 Goals
 
@@ -61,7 +61,7 @@ cd leetcode-solutions
 - Focus on clean and readable code  
 - Track progress and revisit older problems  
 
----
+--
 
 ## 🙋‍♂️ Contributions
 
