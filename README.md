@@ -1,8 +1,5 @@
 # LeetCode Solutions
-
 This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/). It's a collection of code, ideas, and explanations aimed at improving problem-solving skills and preparing for technical interviews.
-
---
 
 ## 📁 Structure
 
@@ -21,8 +18,6 @@ Each file contains:
 - Solution code
 - Optional comments or explanations
 
---
-
 ## ✅ Topics Covered
 
 - Arrays  
@@ -35,8 +30,6 @@ Each file contains:
 - Greedy  
 - Backtracking  
 - And more...
-
---
 
 ## 🚀 How to Use
 
@@ -53,21 +46,15 @@ cd leetcode-solutions
 - Explanations or comments are included wherever helpful.
 - Some files may include multiple approaches or optimizations.
 
---
-
 ## 🎯 Goals
 
 - Practice regularly  
 - Focus on clean and readable code  
 - Track progress and revisit older problems  
 
---
-
 ## 🙋‍♂️ Contributions
 
 This is a personal project, but feel free to explore or fork it for your own practice!
-
----
 
 ## 📬 Contact
 
